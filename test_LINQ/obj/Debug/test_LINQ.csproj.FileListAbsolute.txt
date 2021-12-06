@@ -1,7 +1,0 @@
-C:\Users\wshad\source\repos\test_LINQ\test_LINQ\bin\Debug\test_LINQ.exe.config
-C:\Users\wshad\source\repos\test_LINQ\test_LINQ\bin\Debug\test_LINQ.exe
-C:\Users\wshad\source\repos\test_LINQ\test_LINQ\bin\Debug\test_LINQ.pdb
-C:\Users\wshad\source\repos\test_LINQ\test_LINQ\obj\Debug\test_LINQ.csprojAssemblyReference.cache
-C:\Users\wshad\source\repos\test_LINQ\test_LINQ\obj\Debug\test_LINQ.csproj.CoreCompileInputs.cache
-C:\Users\wshad\source\repos\test_LINQ\test_LINQ\obj\Debug\test_LINQ.exe
-C:\Users\wshad\source\repos\test_LINQ\test_LINQ\obj\Debug\test_LINQ.pdb
